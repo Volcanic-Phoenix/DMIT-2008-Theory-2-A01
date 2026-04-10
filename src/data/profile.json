@@ -49,11 +49,11 @@
     ],
     "supportLink": {
       "url": "https://ko-fi.com/M4M71O34X",
-      "imageSrc": "https://ko-fi.com/",
+      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
       "imageAlt": "Buy Me a Coffee at ko-fi.com"
     },
     "image": {
-      "src": "/VolcanicPhoenix,jpg",
+      "src": "/VolcanicPhoenix.jpg",
       "alt": "Hand drawn image of a Phoenix"
     }
   },
