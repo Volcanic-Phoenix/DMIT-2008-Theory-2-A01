@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Jacob Kombedjian - Web Designer and Developper",
+    "description": "I'm a web developer based in Edmonton, passionate about design, development and user experiences. My primary tools of choice include: JavaScript, PHP, Figma, CSS and knowledge of difference cms systems.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,65 +11,65 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "personName": "Jacob",
+    "jobTitle": "Web Designer",
+    "worksFor": "Student",
+    "location": "Edmonton",
+    "countryCode": "CA",
+    "nationality": "Canada",
+    "publisherName": "Jacob",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/jacob-kombedjian-16b5843a8/",
+      "https://github.com/Volcanic-Phoenix"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Jacob Kombedjian",
+    "summary": "a web developer with strong focus on design, development and user experiences",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/Volcanic-Phoenix"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/jacob-kombedjian-16b5843a8/"
       },
       {
         "ariaLabel": "dribble profile",
         "screenReaderLabel": "Dribble Profile",
         "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://dribbble.com/"
       }
     ],
     "supportLink": {
       "url": "https://ko-fi.com/M4M71O34X",
-      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
+      "imageSrc": "https://ko-fi.com/",
       "imageAlt": "Buy Me a Coffee at ko-fi.com"
     },
     "image": {
-      "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "src": "/VolcanicPhoenix,jpg",
+      "alt": "Hand drawn image of a Phoenix"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Jacob, a web designer from Edmonton.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
+      "Figma",
       "JavaScript",
-      "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "PHP",
+      "CSS",
+      "Wordpress",
+      "Shopify"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
+    "passion": "Beyond coding, I'm passionate about design, video making, tech repair and traveling. An unusual hobby of mine is collecting video games, it's very fun to watch it grow.",
     "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
   },
   "contacts": {
@@ -81,15 +81,15 @@
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/jacob-kombedjian-16b5843a8/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/Volcanic-Phoenix"
       },
       {
         "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://discord.com"
       }
     ]
   },
@@ -101,7 +101,7 @@
     "title": "Now",
     "helpLabel": "what's that ?",
     "helpUrl": "https://sive.rs/nowff",
-    "status": "Currently working fulltime"
+    "status": "Currently a student at NAIT"
   },
   "sections": {
     "schoolAssignment": {
