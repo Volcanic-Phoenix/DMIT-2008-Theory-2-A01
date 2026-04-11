@@ -1,6 +1,6 @@
 # Theory 2
 
-> Student Name: Jacob Kombedjian
+> Student Name: Jacob Kombedjian (Volcanic-Phoenix)
 
 ![Website Screenshot](./docs/images/weather.png)
 
