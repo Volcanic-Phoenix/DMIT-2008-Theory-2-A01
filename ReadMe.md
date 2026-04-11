@@ -2,7 +2,7 @@
 
 > Student Name: Jacob Kombedjian
 
-![Website Screenshot](./docs/images/screenshot.png)
+![Website Screenshot](./docs/images/weather.png)
 
 In this assignment, you will demonstrate your ability to
 
